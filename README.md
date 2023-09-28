@@ -116,7 +116,7 @@ Kapasitas Gudang: 5000
 Jumlah Buku Saat Ini: 1000
 AC: no
 Lantai: kayu
-Ketersediaan Teknologi: sistem pencahayaan
+Ketersediaan Teknologi: sistem pelacakan stok otomatis, sistem pencahayaan
 
 
 ```
