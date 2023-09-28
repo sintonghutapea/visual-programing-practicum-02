@@ -126,7 +126,7 @@ Ketersediaan Teknologi: sistem pencahayaan
 **Output**:
 ```bash
 Informasi Gudang:
-Gudang Haloha|5000|1000|yes|beton|sistem pelacakan stok otomatis, sistem pencahayaan|20|Gudang Perlu Peningkatan
+Gudang Haloha|5000|1000|no|kayu|sistem pelacakan stok otomatis, sistem pencahayaan|20|Gudang Perlu Peningkatan
 
 ```
 
